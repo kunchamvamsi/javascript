@@ -3,10 +3,10 @@ const notes = [
     title: "My New trip",
     body: "I Would like to go to spain",
   },
-  {
-    title: "Habbits to work on",
-    body: "Excercise.Eatting a bite",
-  },
+  // {
+  //   title: "Habbits to work on",
+  //   body: "Excercise.Eatting a bite",
+  // },
   {
     title: "Office modification",
     body: "Get a new seat",
